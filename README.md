@@ -1,24 +1,21 @@
 ## Hi there 👋, I'm Saulo!
 
 ##### Tech Lead / Staff Software Engineer @ Accenture | Certified AWS Cloud Practicioner
-<br />
 
 I have a passion for front-end engineering – specially mobile engineering, design and animation.
 
 I've worked on, lead, or supervised projects built for iOS, WatchOS (Apple Watch), Android, Cloud, IoT and the Web.
 
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/freirezinho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=freirezinho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=prs,issues,stars"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freirezinho&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=freirezinho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=prs,issues,stars"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freirezinho&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
 <br />
 
 ### Technologies I'm interested
-
-<br />
 
 #### Mobile
 
@@ -27,7 +24,6 @@ I've worked on, lead, or supervised projects built for iOS, WatchOS (Apple Watch
   <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
-<br />
 
 #### Web
 
@@ -38,7 +34,6 @@ I've worked on, lead, or supervised projects built for iOS, WatchOS (Apple Watch
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
 </div>
-<br />
 
 #### Cloud, Desktop & Other Platforms
 
@@ -53,12 +48,9 @@ I've worked on, lead, or supervised projects built for iOS, WatchOS (Apple Watch
 ### Currently learning
 
 MacOS development & C.
-
 <br />
 
 ### How to reach me
-
-<br />
 
 <div> 
   <a href="https://www.linkedin.com/in/saulo-freire" target="_blank">
