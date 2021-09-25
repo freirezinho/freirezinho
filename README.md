@@ -1,16 +1,68 @@
-### Hi there 👋
+## Hi there 👋, I'm Saulo!
 
-<!--
-**freirezinho/freirezinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### Tech Lead / Staff Software Engineer @ Accenture | Certified AWS Cloud Practicioner
+<br />
 
-Here are some ideas to get you started:
+I have a passion for front-end engineering – specially mobile engineering, design and animation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I've worked on, lead, or supervised projects built for iOS, WatchOS (Apple Watch), Android, Cloud, IoT and the Web.
+
+
+<div align="center">
+  <a href="https://github.com/freirezinho">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=freirezinho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=prs,issues,stars"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freirezinho&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</div>
+<br />
+
+### Technologies I'm interested
+
+<br />
+
+#### Mobile
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
+  <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+</div>
+<br />
+
+#### Web
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
+</div>
+<br />
+
+#### Cloud, Desktop & Other Platforms
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Objective-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/objectivec/objectivec-plain.svg">
+  <img align="center" alt="Arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
+</div>
+<br />
+
+### Currently learning
+
+MacOS development & C.
+
+<br />
+
+### How to reach me
+
+<br />
+
+<div> 
+  <a href="https://www.linkedin.com/in/saulo-freire" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:freiretstudios@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
