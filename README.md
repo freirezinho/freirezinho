@@ -1,8 +1,8 @@
 ## Hi there 👋, I'm Saulo!
 
-##### Tech Lead / Staff Software Engineer @ Accenture | Certified AWS Cloud Practicioner
+##### Product Engineering Manager | iOS SME @ Accenture | Certified AWS Cloud Practicioner
 
-I have a passion for front-end engineering – specially mobile engineering, design and animation.
+I have a passion for front-end engineering – specially mobile engineering, design, animation and performance tricks.
 
 I've worked on, lead, or supervised projects built for iOS, WatchOS (Apple Watch), Android, Cloud, IoT and the Web.
 
