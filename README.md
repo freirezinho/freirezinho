@@ -15,7 +15,7 @@ I've worked on, lead, or supervised projects built for iOS, WatchOS (Apple Watch
 </div>
 <br />
 
-### Technologies I'm interested
+### Technologies I've used
 
 #### Mobile
 
@@ -47,7 +47,7 @@ I've worked on, lead, or supervised projects built for iOS, WatchOS (Apple Watch
 
 ### Currently learning
 
-MacOS development & C.
+Swift on Server, C/C++.
 <br />
 
 ### How to reach me
